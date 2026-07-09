@@ -5,8 +5,8 @@ Software developer based in Vienna. Currently sending bugs to space a.k.a writin
 ## 🛠️ Some things I've built
 
 - **[Mandelbulb Music Visualizer](https://github.com/pikanogavicka/mandelbulb_music_visualizer)** — a real-time audio visualizer that renders a 3D Mandelbulb fractal and animates it to music (or your mic), using GPU ray marching and live FFT analysis.
-- **[Binary Neural Network from Scratch](#)** — a convolutional BNN built in pure NumPy, no PyTorch or TensorFlow. Forward pass, backprop, and the Adam optimizer are all hand-written, mostly so I could finally understand what a layer actually does.
-- **[Rock Paper Scissors with Leap Motion](#)** — play rock-paper-scissors against the computer using real hand gestures, tracked by a Leap Motion sensor and classified with a hand-rolled KNN. Bonus points if you 3D print and conenct a robot hand, like I did.
+- **[Binary Neural Network from Scratch](https://github.com/pikanogavicka/BNN)** — a convolutional BNN built in pure NumPy, no PyTorch or TensorFlow. Forward pass, backprop, and the Adam optimizer are all hand-written, mostly so I could finally understand what a layer actually does.
+- **[Rock Paper Scissors with Leap Motion](https://github.com/pikanogavicka/leap_rockpaperscissors)** — play rock-paper-scissors against the computer using real hand gestures, tracked by a Leap Motion sensor and classified with a hand-rolled KNN. Bonus points if you 3D print and conenct a robot hand, like I did.
 
 ## 🧵 A little bit about me
 
