@@ -32,4 +32,4 @@ My border collie makes sure I never fully clock out. He's impossible to overstim
 
 <img src="photos/Ori_IronMan.jpeg" alt="Ori" width="280">
 
-I also do triathlon, badly, in the sense that, like most triathletes, I don't really swim. There's a Greg LeMond line I think about a lot: "It never gets easier, you just go faster." Turns out that's also a pretty accurate description of software engineering. It doesn't get easier. You just get faster, and occasionally more impressive.
+I also do long distance triathlon. There's a Greg LeMond line I think about a lot: "It never gets easier, you just go faster." Turns out that's also a pretty accurate description of software engineering. It doesn't get easier. You just get faster, and occasionally more impressive.
