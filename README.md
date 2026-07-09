@@ -1,8 +1,14 @@
 # Hi, I'm Gaja 👋
 
-Software developer based in Vienna. Currently sending bugs to space. Turns out "it's not rocket science" doesn't apply here. It actually is.
+Software developer based in Vienna. Currently sending bugs to space a.k.a writing code for satellite thrusters.
 
-## 🧵 A very short version of a longer story
+## 🛠️ Some things I've built
+
+- **[Mandelbulb Music Visualizer](https://github.com/pikanogavicka/mandelbulb_music_visualizer)** — a real-time audio visualizer that renders a 3D Mandelbulb fractal and animates it to music (or your mic), using GPU ray marching and live FFT analysis.
+- **[Binary Neural Network from Scratch](#)** — a convolutional BNN built in pure NumPy, no PyTorch or TensorFlow. Forward pass, backprop, and the Adam optimizer are all hand-written, mostly so I could finally understand what a layer actually does.
+- **[Rock Paper Scissors with Leap Motion](#)** — play rock-paper-scissors against the computer using real hand gestures, tracked by a Leap Motion sensor and classified with a hand-rolled KNN. Bonus points if you 3D print and conenct a robot hand, like I did.
+
+## 🧵 A little bit about me
 
 I bartended through my first year of university. Didn't teach me much about code, but it taught me patience, which turns out to be most of the job anyway.
 
@@ -19,12 +25,6 @@ For my master's I fell for physically based rendering, spent a semester on it in
 I'll try to clean up and upload the code for both theses to this GitHub at some point. No promises though. You know how it is: the deadline is a few months out, nothing works, you're pulling your hair out, and code quality is the last thing on your mind, you just want it to run once and be done. Coming back to it years later is a lot of work to make it presentable.
 
 Military simulators after that, then medical robotics, then a move to Vienna, and now, satellite thrusters. If you want the rest of the employment history with the acronyms and tech stacks, that's what my CV is for. Ask and I'll send it over.
-
-## 🛠️ Some things I've built
-
-- **[Mandelbulb Music Visualizer](https://github.com/pikanogavicka/mandelbulb_music_visualizer)** — a real-time audio visualizer that renders a 3D Mandelbulb fractal and animates it to music (or your mic), using GPU ray marching and live FFT analysis.
-- **[Binary Neural Network from Scratch](#)** — a convolutional BNN built in pure NumPy, no PyTorch or TensorFlow. Forward pass, backprop, and the Adam optimizer are all hand-written, mostly so I could finally understand what a layer actually does.
-- **[Rock Paper Scissors with Leap Motion](#)** — play rock-paper-scissors against the computer using real hand gestures, tracked by a Leap Motion sensor and classified with a hand-rolled KNN. Bonus points if you 3D print and conenct a robot hand, like I did.
 
 ## 🐾 Off the clock
 
